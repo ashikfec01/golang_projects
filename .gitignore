@@ -1,0 +1,34 @@
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+
+# Binary and package files created by Go
+/bin/
+/pkg/
+
+# Output directories
+/output/
+/dist/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Dependency management files
+go.sum
+go.mod
+
+# Compiled documentation
+*.md.html
+
+# Configuration files
+config.json
+**/.DS_Store
